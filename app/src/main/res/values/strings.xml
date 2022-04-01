@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">我的单词书</string>
+
+    <style name="shareDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <style name="LoginEdit">
+        <item name="android:background">@drawable/borderlogin</item>
+    </style>
+
+    <style name="LoginEdit2">
+        <item name="android:background">@drawable/borderlogingreen</item>
+    </style>
+</resources>
